@@ -1,7 +1,11 @@
-# WeekOmnistack
+# LookingDev
 
-Desenvlvimento do Projeto da Semana Omnistack
+### Desenvolvimento do Projeto da Semana Omnistack
 
-Backend Ok
-Frontend em Desenvolvimento
-Mobile Falta
+<p>Backend</p>
+<p>Frontend</p>
+<p>Mobile</p>
+
+### LookingDev
+
+<p>O Lonkingdev é uma plataforma para encontrar Desenvolvedores das demais especialidades, afins de solucionar a escassez de Desenvolvedores do mercado.</p>
