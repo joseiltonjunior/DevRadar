@@ -9,3 +9,12 @@
 ### LookingDev
 
 <p>O Lonkingdev é uma plataforma para encontrar Desenvolvedores das demais especialidades, afins de solucionar a escassez de Desenvolvedores do mercado.</p>
+
+
+### Instalar o Projeto
+
+<p>npm install ou yarn</p>
+
+### Rodar o Projeto
+
+<p >npm run dev ou yarn run dev </p>
