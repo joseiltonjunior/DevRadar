@@ -1,15 +1,14 @@
-# LookingDev
+# DevRadar
 
 ### Desenvolvimento do Projeto da Semana Omnistack
 
-<p>Backend</p>
-<p>Frontend</p>
-<p>Mobile</p>
+<p>Backend - Ok</p>
+<p>Frontend - Ok</p>
+<p>Mobile - Em Desenvolvimento</p>
 
-### LookingDev
+### DevRadar
 
-<p>O Lonkingdev é uma plataforma para encontrar Desenvolvedores das demais especialidades, afins de solucionar a escassez de Desenvolvedores do mercado.</p>
-
+<p>O DevRadar é uma plataforma para encontrar Desenvolvedores das demais especialidades, afins de solucionar a escassez de Desenvolvedores do mercado.</p>
 
 ### Instalar o Projeto
 
@@ -18,3 +17,4 @@
 ### Rodar o Projeto
 
 <p >npm run dev ou yarn run dev </p>
+<p >npm start ou yarn start </p>
