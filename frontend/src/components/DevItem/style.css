@@ -35,18 +35,18 @@ li.dev-item header .user-info {
 }
 
 li.dev-item p {
-  color: #666;
+  color: #222;
   font-size: 14px;
   line-height: 20px;
   margin: 10px 0;
 }
 
 li.dev-item a {
-  color: rgb(42, 122, 241);
+  color: #778899;
   font-size: 14px;
   text-decoration: none;
 }
 
 li.dev-item a:hover {
-  color: rgb(13, 56, 136);
+  color: #222;
 }

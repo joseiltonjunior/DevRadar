@@ -14,7 +14,7 @@ body,
 }
 
 body {
-    background-color: rgb(131, 133, 160);
+    background: #000 url('./assets/background.jpg') center;
     -webkit-font-smoothing: antialiased;
 }
 

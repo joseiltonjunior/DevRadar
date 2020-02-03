@@ -31,7 +31,7 @@ function App() {
   return (
     <div id="App">
       <aside>
-        <strong>LookingDev</strong>
+        <strong>DevRadar</strong>
         <DevForm onSubmit={handleAddDev} />
       </aside>
 
