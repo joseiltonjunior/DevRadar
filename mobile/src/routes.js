@@ -23,7 +23,7 @@ const Routes = createAppContainer(
       headerTintColor: '#FFF',
       headerTitleAlign: 'center',
       headerStyle: {
-        backgroundColor: '#222',
+        backgroundColor: '#000',
       }
     },
   })
