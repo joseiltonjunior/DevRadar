@@ -2,19 +2,21 @@
 
 ### Desenvolvimento do Projeto da Semana Omnistack
 
-<p>Backend - Ok</p>
-<p>Frontend - Ok</p>
-<p>Mobile - Em Desenvolvimento</p>
+<p>Backend - Finalizado</p>
+<p>Frontend - Finalizado</p>
+<p>Mobile - Finalizado</p>
+<p>Real Time - Em andamento</p>
 
 ### DevRadar
 
-<p>O DevRadar é uma plataforma para encontrar Desenvolvedores das demais especialidades, afins de solucionar a escassez de Desenvolvedores do mercado.</p>
+<p>O DevRadar é uma plataforma para encontrar Desenvolvedores das demais especialidades.</p>
 
-### Instalar o Projeto
+### Instalar as dependências do Projeto.
 
 <p>npm install ou yarn</p>
 
-### Rodar o Projeto
+### Inicializar o Projeto.
 
-<p >npm run dev ou yarn run dev </p>
-<p >npm start ou yarn start </p>
+<p >API Node.js - npm run dev ou yarn run dev </p>
+<p >React - npm start ou yarn start </p>
+<p >React Native - npm start ou yarn start </p>
