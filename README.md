@@ -5,7 +5,7 @@
 <p>Backend - Finalizado</p>
 <p>Frontend - Finalizado</p>
 <p>Mobile - Finalizado</p>
-<p>Real Time - Em andamento</p>
+<p>Real Time - Finalizado</p>
 
 ### DevRadar
 
